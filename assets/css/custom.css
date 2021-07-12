@@ -20,8 +20,7 @@
 }
 
 #about-me {
-    background-image: url(https://lifegram-seeds.s3.amazonaws.com/swiss.jpg);
-	/* Have to add mine background here and post it in aws */
+    background-image: url(https://ft-personal-website.s3.us-east-2.amazonaws.com/nasa-desert-river+copy.jpg);
     min-height: 493px;
     background-attachment: fixed;
     background-position: center;
