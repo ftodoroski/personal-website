@@ -1,0 +1,54 @@
+.tech-items {
+    display: grid;
+    grid-template-columns: repeat(5,auto);
+    grid-gap: 30px;
+}
+
+.tech-items svg {
+    height: 100px;
+    place-self: center;
+    padding-bottom: 10px;
+}
+
+#education-section {
+    width: 100%;
+    
+}
+
+.school {
+    font-weight: 700;
+}
+
+#about-me {
+    background-image: url(https://lifegram-seeds.s3.amazonaws.com/swiss.jpg);
+	/* Have to add mine background here and post it in aws */
+    min-height: 493px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#facts-parent {
+    display: grid;
+}
+
+#facts {
+    background: #ffffffdb;
+    border-radius: 12px;
+    width: 70%;
+    place-self: center;
+    padding: 35px;
+}
+
+#facts:hover {
+    background: white;
+    border-radius: 12px;
+    width: 70%;
+    place-self: center;
+    padding: 35px;
+}
+
+#facts > p {
+    margin: 1rem 0;
+}
