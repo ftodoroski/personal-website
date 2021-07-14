@@ -8601,38 +8601,3 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
-
-/* Background cover for Module seven */
-
-/* #test {
-    background-image: url(https://lifegram-seeds.s3.amazonaws.com/swiss.jpg);
-    min-height: 493px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#facts-parent {
-    display: grid;
-}
-
-#facts {
-    background: #ffffffdb;
-    border-radius: 12px;
-    width: 70%;
-    place-self: center;
-    padding: 35px;
-}
-
-#facts:hover {
-    background: white;
-    border-radius: 12px;
-    width: 70%;
-    place-self: center;
-    padding: 35px;
-}
-
-#facts > p {
-    margin: 1rem 0;
-} */

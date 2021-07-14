@@ -51,3 +51,7 @@
 #facts > p {
     margin: 1rem 0;
 }
+
+.img-background img{
+    background-color: white;
+}
